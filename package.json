@@ -1,15 +1,18 @@
 {
   "name": "xkumiyu",
   "version": "0.1.0",
-  "description": "# Usage",
+  "description": "xkumiyu CLI",
   "main": "src/cli.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "xkumiyu": "src/cli.js"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/xkumiyu/xkumiyu.git"
   },
+  "files": [
+    "src"
+  ],
   "keywords": [
     "cli-app",
     "cli"
