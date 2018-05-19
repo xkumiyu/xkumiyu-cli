@@ -6,4 +6,4 @@
 npx xkumiyu
 ```
 
-![Accuracy](https://github.com/xkumiyu/xkumiyu/raw/master/screenshot.png)
+<img src="https://github.com/xkumiyu/xkumiyu/raw/master/screenshot.png" width="320px">
