@@ -2,7 +2,9 @@
   "name": "xkumiyu",
   "version": "0.1.1",
   "description": "xkumiyu CLI",
-  "main": "src/cli.js",
+  "engines": {
+    "node": ">=8"
+  },
   "bin": {
     "xkumiyu": "src/cli.js"
   },
