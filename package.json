@@ -1,6 +1,6 @@
 {
   "name": "xkumiyu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "xkumiyu CLI",
   "engines": {
     "node": ">=8"
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/xkumiyu/xkumiyu.git"
+    "url": "git+ssh://git@github.com/xkumiyu/xkumiyu-cli.git"
   },
   "files": [
     "src"
@@ -22,16 +22,16 @@
   "author": "xkumiyu <xkumiyu@gmail.com> (https://github.com/xkumiyu)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xkumiyu/xkumiyu/issues"
+    "url": "https://github.com/xkumiyu/xkumiyu-cli/issues"
   },
-  "homepage": "https://github.com/xkumiyu/xkumiyu#readme",
+  "homepage": "https://github.com/xkumiyu/xkumiyu-cli#readme",
   "dependencies": {
     "import-jsx": "^1.3.0",
     "ink": "^0.4.1",
     "ink-select-input": "^1.1.0",
     "meow": "^5.0.0",
-    "opn": "^5.3.0",
+    "opn": "^5.4.0",
     "term-img": "^2.1.0",
-    "terminal-image": "^0.1.1"
+    "terminal-image": "^0.1.2"
   }
 }

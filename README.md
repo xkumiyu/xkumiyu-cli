@@ -1,8 +1,8 @@
 # xkumiyu
 
-# Usage
+## Usage
 
-```
+``` sh
 npx xkumiyu
 ```
 
